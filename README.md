@@ -1,5 +1,6 @@
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/KwVOMfXLC1mtEAORN3/video" width="480"></iframe></div>
-
+<div id="header" align="center">
+  <img src="https://giphy.com/clips/netflix-cyberpunk-edgerunners-KwVOMfXLC1mtEAORN3" width="1000">
+</div>
 
 
 hii im [REDACTED] <br />
