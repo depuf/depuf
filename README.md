@@ -1,3 +1,4 @@
 hii im [REDACTED] <br />
-im 19 and im super cool <br />
+19 yo malware enthusiast <br />
+i guess i can code <br />
 ᶻ 𝗓 𐰁
