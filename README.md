@@ -1,3 +1,3 @@
-<p align="center">
-  ᶻ 𝗓 𐰁
-</p>
+![bunny-header]
+
+[bunny-header]: https://github.com/depuf/depuf/blob/main/bunny.png
