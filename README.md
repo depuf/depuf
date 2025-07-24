@@ -1,3 +1,1 @@
-![bunny-header]
-
-[bunny-header]: https://github.com/depuf/depuf/blob/main/bunny.png
+<img src="bunny.png" width="250" height="140">
