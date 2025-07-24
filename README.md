@@ -1,6 +1,6 @@
 <img src="bunny.png" width="190" height="160">  <em><strong>hi there!</strong></em>
 \
-i'm a 4th year computing science student @ glasgow university
+i'm a 4th year computing science student @ university of glasgow
 
 malware enthusiast <br />
 currently trying to get better at binary exploitation <em>(for ctf purposes)</em>
