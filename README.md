@@ -3,7 +3,8 @@
 i'm a 4th year computing science student @ university of glasgow
 
 malware enthusiast <br />
-currently trying to get better at binary exploitation <em>(for ctf purposes)</em>
+currently trying to get better at binary exploitation <em>(for ctf purposes)</em> <br />
+i do fullstack
 
 connect with me ￬
 
